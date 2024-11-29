@@ -1,1 +1,1 @@
-Simple Portfolio Create Using HTML & CSS
+Simple portfolio create using HTML & CSS in my college's coding competition.
